@@ -1,0 +1,7 @@
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\bin\Debug\homeWhork.exe.config
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\bin\Debug\homeWhork.exe
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\bin\Debug\homeWhork.pdb
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\obj\Debug\homeWhork.csprojAssemblyReference.cache
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\obj\Debug\homeWhork.csproj.CoreCompileInputs.cache
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\obj\Debug\homeWhork.exe
+D:\Zub\Programming\C#\skillbox\HomeWhork2.7\homeWhork\obj\Debug\homeWhork.pdb
